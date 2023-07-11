@@ -137,7 +137,7 @@ Notice that the higher is the confidence probability, the wider is the confidenc
 
 In our baseball players dataset, there are different player roles, that can be summarized below (look at the [accompanying notebook](notebook.ipynb) to see how this table can be calculated):
 
-| Role | Height | Weight | Count |
+| Role | Weight | Height | Count |
 |------|--------|--------|-------|
 | Catcher | 72.723684 | 204.328947 | 76 |
 | Designated_Hitter | 74.222222 | 220.888889 | 18 |
